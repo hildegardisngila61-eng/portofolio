@@ -1,1 +1,10 @@
-# portofolio
+[index.html.html](https://github.com/user-attachments/files/25506434/index.html.html)
+[style.css](https://github.com/user-attachments/files/25506435/style.css)
+![gambar_5](https://github.com/user-attachments/assets/bb41b222-24e1-470f-9749-f9be60341a47)
+![gambar_4](https://github.com/user-attachments/assets/20cf8ab6-e354-45ff-908b-8fa95e2cbc3e)
+![gambar_3](https://github.com/user-attachments/assets/8f7dd1fa-2510-4635-83fd-33ef993cd5b4)
+![gambar_2](https://github.com/user-attachments/assets/7c9a18e4-9d61-4cee-b2c2-626508b85925)
+<img width="1414" height="2000" alt="gambar_1" src="https://github.com/user-attachments/assets/dcdcdcc9-9f2b-4f62-836a-8769fe03d8a6" />
+![gambar_1](https://github.com/user-attachments/assets/54289ab9-15ce-497d-9c3d-7a9359a938c2)
+[contack.html.html](https://github.com/user-attachments/files/25506437/contack.html.html)
+[about.html.html](https://github.com/user-attachments/files/25506436/about.html.html)
